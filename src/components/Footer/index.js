@@ -69,7 +69,7 @@ function Footer() {
               dolla
             </SocialLogo>
             <WebsiteRights>
-              dolla {new Date().getFullYear()} All rights reserved.
+              DrDev {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink href="/" target="_blank" aria-label="Facebook">
