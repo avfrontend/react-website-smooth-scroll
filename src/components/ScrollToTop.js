@@ -9,3 +9,5 @@ export default function ScrollToTop() {
   }, [pathname]);
   return null;
 }
+
+// need to import this component in new pages in order to scroll to top works correctly
